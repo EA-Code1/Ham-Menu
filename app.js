@@ -13,7 +13,7 @@ menuTog.addEventListener('click', ()=>{
     logo.classList.toggle('active');
     nav.classList.toggle('active'); 
 
-    // Remove active class to restart delayed effect
+    // Remove active class to restart delayed effectt
     contact.classList.remove('active');
     navRight.classList.remove('active'); 
 
